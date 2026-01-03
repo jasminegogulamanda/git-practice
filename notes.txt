@@ -1,4 +1,4 @@
-git is a version control system
+Git is used worldwide by developers
 git helps developers to track changes
 git is used by developers worldwide
 git added to feature1
